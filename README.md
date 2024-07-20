@@ -50,15 +50,8 @@ The setup involves integrating all components as per the block diagram, coding t
 
 ![IMG-20240706-WA0004](https://github.com/user-attachments/assets/c36b7fe6-5d04-416e-92e9-e89ae2dfb69e)
 
-![IMG-20240706-WA0018](https://github.com/user-attachments/assets/91ccc19b-07ce-4357-8f09-1e6a4bcdc698)
-
-![IMG-20240706-WA0006](https://github.com/user-attachments/assets/5d026186-b2f8-4363-8584-8e38f766d624)
-
 ## Results
 The data collected from both lab and field testing is analyzed to confirm the system's accuracy and reliability. The findings support the improved decision-making in agricultural management.
-
-## Acknowledgements
-This project was carried out with the guidance of Mr. Narayanan P P and Mr. Bavesh Ram. It is submitted in partial fulfilment of the requirements for the Internship program at the Smart AgriTech Centre for Advanced Research and Development, IIT Palakkad.
 
 ## Conclusion
 This project successfully demonstrates the development of a standalone module for agricultural sensors. Future work includes expanding the framework to integrate additional sensors and enhance system capabilities.
